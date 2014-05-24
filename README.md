@@ -25,11 +25,11 @@ MovieAdmin
 - - records-insert.php //添加放映记录
 - - records-search.php //搜索放映记录
 - - records-update.php //编辑放映记录
-	   public_html/user-management.php //人员管理
+	   - public_html/user-management.php //人员管理
 - - user-management-insert.php //添加人员
 - - user-management-delete.php //删除人员
 - - user-management-update.php //编辑人员
-	   public_html/movie-management.php  //电影及院线管理
+	   - public_html/movie-management.php  //电影及院线管理
 - - movie-management-chain.php //院线管理
 - --- movie-management-chain-delete.php //删除院线
 - --- movie-management-chain-insert.php //添加院线
@@ -50,9 +50,9 @@ MovieAdmin
 
 public_html/records.php  //放映记录管理及打印
 
-	  public_html/user-management.php //人员管理
+public_html/user-management.php //人员管理
 	  
-	  public_html/movie-management.php  //电影及院线管理
+public_html/movie-management.php  //电影及院线管理
 
 院线的管理者（testupper）：
 
@@ -60,9 +60,9 @@ public_html/records.php  //放映记录管理及打印
 
 public_html/records.php  //放映记录管理及打印
 
-	  public_html/user-management.php //人员管理
+public_html/user-management.php //人员管理
 	  
-	  public_html/movie-management.php  //电影及院线管理
+public_html/movie-management.php  //电影及院线管理
 
 放映员（testlower）：
 
