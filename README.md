@@ -43,6 +43,10 @@ MovieAdmin
 - navbar.php  //导航栏
 - sidebar.php  //侧边栏
 
+界面：
+- bootstrap
+- ajax使用
+
 需求：
 
 院线的最高管理者（12281121）:
