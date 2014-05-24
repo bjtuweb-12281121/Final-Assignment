@@ -20,7 +20,8 @@ MovieAdmin
 
 入口：public_html/home.php
 
-功能：public_html/records.php  //放映记录管理
+功能：
+	  - public_html/records.php  //放映记录管理
 - - records-delete.php //删除放映记录
 - - records-insert.php //添加放映记录
 - - records-search.php //搜索放映记录
@@ -34,7 +35,7 @@ MovieAdmin
 - --- movie-management-chain-delete.php //删除院线
 - --- movie-management-chain-insert.php //添加院线
 -  --- movie-management-chain-update.php //编辑院线
-- - movie-management-film.php //电影管理
+	   - movie-management-film.php //电影管理
 - --- movie-management-film-delete.php //删除电影
 - --- movie-management-film-insert.php //添加电影
 - --- movie-management-film-update.php //编辑电影
